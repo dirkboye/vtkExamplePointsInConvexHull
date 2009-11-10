@@ -8,7 +8,6 @@
 #include <vtkDelaunay3D.h>
 #include <vtkUnstructuredGrid.h>
 #include <vtkSmartPointer.h>
-#include <vtkOBBTree.h>
 
 using namespace std;
 
